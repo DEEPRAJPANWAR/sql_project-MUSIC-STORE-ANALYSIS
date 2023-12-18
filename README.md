@@ -1,1 +1,2 @@
-# sql_project-MUSIC-STORE-ANALYSIS
+# SQL_Project_Music_Store_Analysis
+SQL project to analyze online music store data
